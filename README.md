@@ -17,6 +17,8 @@ This tutorial has been honoured with three prizes:
 + Community Voting Prize, Intel Havok Physics Contest (January 2009)
 + First Prize, Ziggyware Fall 2008 XNA Article Contest (December 2008)
 
-It assumes that you are an absolute beginner in physics simulation programming, but it does assume that you know about object-oriented programming. The tutorial uses XNA 3.0, which is the framework used for creating games on the PC, Xbox 360 and the Zune (Microsoft’s MP3 player). The language used is C#.
+It assumes that you are an absolute beginner in physics simulation programming, but it does assume that you know about object-oriented programming. The tutorial uses XNA 3.0, which is the framework used for creating games on the PC, Xbox 360 and the Zune (Microsoftï¿½s MP3 player). The language used is C#.
 
 Hope you like the tutorial!
+
+http://cg.skeelogy.com/introduction-to-soft-body-physics-in-xna/
